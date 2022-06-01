@@ -5,8 +5,9 @@ ReactJS
 NodeJS
 MongoDB
 
-# 
+###
 cd server1 -> npm i -> npm run dev
+###
 cd client -> npm i -> npm start
 
 # account
